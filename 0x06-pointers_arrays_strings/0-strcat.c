@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ #include "main.h"
+=======
 #include "main.h"
+>>>>>>> c84c18802d82a11b38098bee0239c9f2295298d2
 #include <stdio.h>
 /**
  * *_strcat - concatenates two strings
